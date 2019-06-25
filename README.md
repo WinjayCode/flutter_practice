@@ -1,1 +1,4 @@
-# flutter_practice
+# Flutter practice
+
+Flutter practice project
+
